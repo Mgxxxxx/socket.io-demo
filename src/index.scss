@@ -1,0 +1,10 @@
+//全局样式可以写在这，但是向混合器、变量写这里别处加载不了，可以写在/src/assets/css/utils.scss
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+li {
+  list-style: none;
+}
